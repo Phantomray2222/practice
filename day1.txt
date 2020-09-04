@@ -1,0 +1,13 @@
+Step-1
+
+wsl windows 
+ubuntu( download )
+
+Step-2
+Task-shell and editors / bash
+
+vscode
+emax 
+vim
+
+contact through - mail, chat 
