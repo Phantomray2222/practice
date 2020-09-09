@@ -1,0 +1,13 @@
+developer.mozilla.org
+
+html
+css 
+javascript 
+
+doom emacs 
+
+node js 
+
+git
+ 
+clone and push

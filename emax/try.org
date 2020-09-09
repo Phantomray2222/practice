@@ -1,0 +1,14 @@
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED (c)
+
+* Top items 
+*** red
+** NEXT rsed 
+** NEXT this should be top 
+* this is level 2
+*** PROJ covid bruh 
+
+* this is cool
+** NEXT i kr 
+*** cool
+*** noice
+* common  
